@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=7AA2F7&width=800&height=70&lines=Hi%2C+I'm+Juan+Fernando+Claro+Hernandez;+Building+High-Performance+Software;+Securing+Scalable+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=7AA2F7&width=800&height=70&lines=Hi%2C+I'm+Juan+Fernando+Claro;+Building+High-Performance+Software;+Securing+Scalable+Cloud+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
